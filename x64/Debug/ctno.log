@@ -1,0 +1,3 @@
+﻿  main.cpp
+C:\Users\Ant\Desktop\Programming\Projects\2023\ctno\ctno\main.cpp(5,1): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  ctno.vcxproj -> C:\Users\Ant\Desktop\Programming\Projects\2023\ctno\x64\Debug\ctno.exe
